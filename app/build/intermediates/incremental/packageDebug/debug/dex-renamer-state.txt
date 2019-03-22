@@ -1,0 +1,4 @@
+#Fri Mar 22 14:27:48 ICT 2019
+base.0=F\:\\New folder (2)\\AndroidTerserah\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
